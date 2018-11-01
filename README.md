@@ -1,6 +1,6 @@
 # Learning resources
 
-A simple git repo to organize links to articles, videos, or blogs that I find particularly helpful or insightful.
+Links to articles, videos, or resources that I find particularly helpful or insightful.
 
 ### Web
 * [American Mathematical Society, Google Page Ranker](http://www.ams.org/publicoutreach/feature-column/fcarc-pagerank)
@@ -45,7 +45,7 @@ A simple git repo to organize links to articles, videos, or blogs that I find pa
 * [Github git documentation](https://guides.github.com/)
 * [Contributing to Open Source Guide](https://opensource.guide/how-to-contribute/)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-* 
+
 
 ### Videos
 * [The mother of all demos, Douglas Englebart](https://www.youtube.com/watch?v=yJDv-zdhzMY)
@@ -134,6 +134,7 @@ A simple git repo to organize links to articles, videos, or blogs that I find pa
 * [Self Worth Affects Salary](https://www.forbes.com/sites/ashleystahl/2016/05/11/how-self-worth-affects-your-salary/#17ae3fa277fa)
 * [Retire by 45](https://www.retireby45.com/)
 * [Buffer's Transparency](https://buffer.com/transparency)
+* [Lifehacker](https://www.lifehack.org/)
 
 ### VIM / Unix / Bash 
 * [Thomer's VIM introduction](http://thomer.com/vi/vi.html#intro)
