@@ -142,6 +142,7 @@ Links to articles, videos, or resources that I find particularly helpful or insi
 * [Bash Command Line Shortcuts](http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/)
 * [Various Sysadmin Guides/Resources](https://www.pantz.org/)
 * [Digital Ocean SSH Introduction](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+* [SSH Essentials](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
 
 ### Markdown
 * [Markdown Live Preview](https://markdownlivepreview.com/)
